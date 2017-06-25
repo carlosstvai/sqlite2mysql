@@ -12,4 +12,4 @@ Usage:
 
 Author: 
 - Carlos Peon Sanmartin 
-carlos@lizardcrash.com
+- carlos@lizardcrash.com
