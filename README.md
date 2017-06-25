@@ -8,8 +8,8 @@ Requirements:
 - sed - stream editor for filtering and transforming text
 
 Usage: 
-./sqlite2mysql.sh [ -s sqlite_source_file.db ] [ -h mysql_host -u mysql_user ] [ -p mysql_password ] [ -d new_database_name ]
+- ./sqlite2mysql.sh [ -s sqlite_source_file.db ] [ -h mysql_host -u mysql_user ] [ -p mysql_password ] [ -d new_database_name ]
 
 Author: 
-Carlos Peon Sanmartin
+- Carlos Peon Sanmartin 
 carlos@lizardcrash.com
